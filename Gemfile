@@ -35,4 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem 'csv'
 gem 'logger'
 gem 'base64'
-ruby '3.1.0'
+ruby '3.4.1'
